@@ -93,3 +93,6 @@ Some ideas for future versions:
 ## License
 
 MIT
+
+## Author 
+Created by [giovanna diniz eduardo](https://github.com/gvdiniz) as part of a personal Privacy Engineering portfolio.
